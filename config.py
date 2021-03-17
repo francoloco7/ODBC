@@ -1,0 +1,7 @@
+#server = ''
+#host = '192.168.0.250'
+#port = '2600'
+db = 'distrib'
+DSN = 'Tablas'
+UID = 'readonly'
+PWD = 'readonlypass'
